@@ -1,7 +1,7 @@
 #!/bin/sh 
 # Generated automatically. Please modify crossref.sh.in.
 
-path="/home/daan/local/share/gerris"
+path="/usr/local/share/gerris"
 
 usage()
 {

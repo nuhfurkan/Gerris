@@ -19,7 +19,7 @@
 #define GFS_BINARY_AGE 0
 
 /* Compilation flags */
-#define GFS_COMPILATION_FLAGS ""
+#define GFS_COMPILATION_FLAGS "-g -pg -O2"
 
 /* Interface age */
 #define GFS_INTERFACE_AGE 0
@@ -73,7 +73,7 @@
 #define HAVE_MPI 1
 
 /* Define to 1 if you have the <netcdf.h> header file. */
-/* #undef HAVE_NETCDF_H */
+#define HAVE_NETCDF_H 1
 
 /* Define to 1 if you have the `open_memstream' function. */
 #define HAVE_OPEN_MEMSTREAM 1

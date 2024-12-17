@@ -4,7 +4,7 @@ wiki="http:\/\/gfs.sf.net\/wiki\/index.php"
 title=""
 css="darcs.css"
 
-path="/home/daan/local/share/gerris"
+path="/usr/local/share/gerris"
 
 usage()
 {
